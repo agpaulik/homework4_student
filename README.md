@@ -34,5 +34,5 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Ari Paulik - agpaulik
+Interpolation can be a really powerful tool in establishing clean and complete data, however it still has its downsides. Interpolation can be used to fill in gaps of potential missing data or create a specific desired point that doesn't exist in the data already. For example, if an individual wanted the chlorophyll concentration from a cruise at a specific location on a day that chlorophyll concentration was not recorded, they can use interpolation to estimate this value based on values around it. However, interpolation can make a lot of assumptions about the data around it and it's imperative that the correct interpolation method is chosen in order to avoid anomalous values that don't make sense with the standing data. Understanding that interpolation does not provide a wholly accurate output is very important in understanding the usefullness of interpolation.
